@@ -223,7 +223,7 @@ Output 1:<pre>1 nfwheqbf bttptqhtacnrua
 214 methinks it is a weysel
 215 methinks it is a weasel</pre>
 
-Output 2:<pre> 1 qtsbmihscwppdhtvqjenhvq
+Output 2:<pre>1 qtsbmihscwppdhtvqjenhvq
  2 qtsbmihscwppdhtvqjenhep
  3 qtsbmihscwppfstvqjenhep
  4 qtsbmihsxwppfstvqwenhep
