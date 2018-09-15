@@ -3,7 +3,7 @@ Module Module1
 
     Private rand = New Random
     Public ReadOnly Alphabet = "abcdefghijklmnopqrstuvwxyz "
-    Public ReadOnly Target = "lientje leerde lotje lopen langs de lange lindenlaan" REM methinks it is a weasel"
+    Public ReadOnly Target = "methinks it is a weasel"
     Public ReadOnly GenSize = 100
 
     Sub Main()
