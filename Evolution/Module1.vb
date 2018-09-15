@@ -3,7 +3,7 @@ Module Module1
 
     Private rand = New Random
     Public ReadOnly Alphabet = "abcdefghijklmnopqrstuvwxyz "
-    Public ReadOnly Target = "methinks it is a weasel"
+    Public ReadOnly Target = "lientje leerde lotje lopen langs de lange lindenlaan" REM methinks it is a weasel"
     Public ReadOnly GenSize = 100
 
     Sub Main()
@@ -22,7 +22,7 @@ Module Module1
     Private Function CreateRandomString(length As Integer) As String
         Dim sb As New StringBuilder(length)
         For idx = 0 To length - 1
-            sb.Append(Alphabet(rand.Next(0, length)))
+            sb.Append(Alphabet(rand.Next(0, Alphabet.length)))
         Next
         Return sb.ToString
     End Function
